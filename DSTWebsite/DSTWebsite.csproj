@@ -119,9 +119,43 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\animate.css" />
     <Content Include="Content\bootstrap-3.1.1\bootstrap.css">
       <DependentUpon>bootstrap.less</DependentUpon>
     </Content>
+    <Content Include="Content\buttons\buttons.css" />
+    <Content Include="Content\buttons\social-icons-codes.css" />
+    <Content Include="Content\buttons\social-icons-embedded.css" />
+    <Content Include="Content\buttons\social-icons-ie7-codes.css" />
+    <Content Include="Content\buttons\social-icons-ie7.css" />
+    <Content Include="Content\buttons\social-icons.css" />
+    <Content Include="Content\customizer\elements-pages-customizer.css" />
+    <Content Include="Content\customizer\home-pages-customizer.css" />
+    <Content Include="Content\customizer\pages-pages-customizer.css" />
+    <Content Include="Content\customizer\pages.css" />
+    <Content Include="Content\customizer\shop-pages-customizer.css" />
+    <Content Include="Content\font-awesome.min.css" />
+    <Content Include="Content\ie\ie.css" />
+    <Content Include="Content\ie\ie8.css" />
+    <Content Include="Content\jquery.fancybox.css" />
+    <Content Include="Content\jslider.css" />
+    <Content Include="Content\ladda.min.css" />
+    <Content Include="Content\morris.css" />
+    <Content Include="Content\responsive.css" />
+    <Content Include="Content\royalslider\royalslider.css" />
+    <Content Include="Content\royalslider\skins\default-inverted\rs-default-inverted.css" />
+    <Content Include="Content\royalslider\skins\default-inverted\rs-default-inverted.png" />
+    <Content Include="Content\royalslider\skins\default\rs-default.css" />
+    <Content Include="Content\royalslider\skins\default\rs-default.png" />
+    <Content Include="Content\royalslider\skins\minimal-white\rs-minimal-white.css" />
+    <Content Include="Content\royalslider\skins\minimal-white\rs-minimal-white.png" />
+    <Content Include="Content\royalslider\skins\preloaders\preloader-white.gif" />
+    <Content Include="Content\royalslider\skins\preloaders\preloader.gif" />
+    <Content Include="Content\royalslider\skins\universal\rs-universal.css" />
+    <Content Include="Content\royalslider\skins\universal\rs-universal.png" />
+    <Content Include="Content\settings.css" />
+    <Content Include="Content\style.css" />
+    <Content Include="Content\video-js.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -173,6 +207,8 @@
     <Content Include="Content\bootstrap-3.1.1\bootstrap.css.map">
       <DependentUpon>bootstrap.css</DependentUpon>
     </Content>
+    <Content Include="Content\royalslider\.DS_Store" />
+    <Content Include="Content\royalslider\skins\.DS_Store" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

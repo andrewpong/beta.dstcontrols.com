@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+.rotation .product-hover,
+.rotation .employee-hover {
+  display: none;
+}
