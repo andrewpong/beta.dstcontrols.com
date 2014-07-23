@@ -47,6 +47,8 @@ D:\Repositories\beta.dstcontrols.com\DSTWebsite\bin\System.Web.WebPages.Deployme
 D:\Repositories\beta.dstcontrols.com\DSTWebsite\bin\System.Web.WebPages.Razor.xml
 D:\Repositories\beta.dstcontrols.com\DSTWebsite\bin\Antlr3.Runtime.pdb
 D:\Repositories\beta.dstcontrols.com\DSTWebsite\bin\Newtonsoft.Json.xml
-D:\Repositories\beta.dstcontrols.com\DSTWebsite\obj\Debug\DSTWebsite.csprojResolveAssemblyReference.cache
 D:\Repositories\beta.dstcontrols.com\DSTWebsite\obj\Debug\DSTWebsite.dll
 D:\Repositories\beta.dstcontrols.com\DSTWebsite\obj\Debug\DSTWebsite.pdb
+D:\Repositories\beta.dstcontrols.com\DSTWebsite\obj\Debug\DSTWebsite.csprojResolveAssemblyReference.cache
+D:\Repositories\beta.dstcontrols.com\DSTWebsite\obj\Debug\DSTWebsite.Properties.Resources.resources
+D:\Repositories\beta.dstcontrols.com\DSTWebsite\obj\Debug\DSTWebsite.csproj.GenerateResource.Cache
